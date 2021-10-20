@@ -1,0 +1,16 @@
+{
+  "name": "pdf_poc",
+  "version": "1.0.0",
+  "description": "AFM PDF generation PoC",
+  "main": "index.js",
+  "author": "Artem Kuznetsov",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "graphql": "^15.6.1",
+    "graphql-request": "^3.6.1",
+    "pdfkit": "^0.12.3",
+    "pdfkit-table": "0.1.56"
+  }
+}
